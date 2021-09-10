@@ -159,7 +159,7 @@ p {
 , .benefit-brand img
 , .benefit-cost img {
     display: block;
-    margin-bottom: 10px auto;
+    margin: 10px auto;
     max-width: 150px;
 }
 
